@@ -14,7 +14,8 @@ Sistema de gerenciamento de tarefas feito em PHP + MySQL (projeto local).
    ```bash
    cd C:\xampp\htdocs
    git clone https://github.com/seu-usuario/task_management_system.git
-##
+
+
 
 ## O Employee Task Management System 
 
@@ -38,7 +39,7 @@ Funcionalidades principais:
 
 - Status das tarefas: pendentes, em andamento ou concluídas.
 
-Observação: se uma tarefa sem prazo for concluída, ela não aparecerá mais como “sem prazo”.
+  Observação: se uma tarefa sem prazo for concluída, ela não aparecerá mais como “sem prazo”.
 
 - Interface amigável: layout simples e fácil de navegar, tornando a gestão de tarefas rápida e eficiente.
 
