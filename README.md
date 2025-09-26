@@ -16,7 +16,9 @@ Sistema de gerenciamento de tarefas feito em PHP + MySQL (projeto local).
    git clone https://github.com/seu-usuario/task_management_system.git
 
 
-O Employee Task Management System é um sistema web completo desenvolvido para gerenciar tarefas e usuários de forma prática e eficiente. Construído com PHP e MySQL na maior parte, com suporte de HTML, CSS, JavaScript e jQuery, ele oferece uma interface simples e intuitiva, perfeita para organização e acompanhamento de atividades de equipes.
+## O Employee Task Management System 
+
+É um sistema web completo desenvolvido para gerenciar tarefas e usuários de forma prática e eficiente. Construído com PHP e MySQL na maior parte, com suporte de HTML, CSS, JavaScript e jQuery, ele oferece uma interface simples e intuitiva, perfeita para organização e acompanhamento de atividades de equipes.
 
 Funcionalidades principais:
 
